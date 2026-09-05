@@ -1,0 +1,8 @@
+interface:
+  display_name: "极简结构拼贴"
+  short_description: "将照片制成上实拍、下抽象纸本构成的高留白 2:3 拼贴"
+  brand_color: "#B68C61"
+  default_prompt: "使用 $minimal-structural-collage 把这张照片制作成上半保留原图、下半关系优先的高留白抽象纸本构成 2:3 拼贴。"
+
+policy:
+  allow_implicit_invocation: true
